@@ -1,0 +1,16 @@
+########## Android Device Capablities ##########
+APPIUMSERVERPORT = ''
+PLATFORM_NAME = ''
+PLATFORM_VERSION = ''
+DEVICE_NAME = ''
+DEVICE_UDID = ''
+Appium = ''
+UiAutomator2 = ''
+APP_PACKAGE = ''
+APP_ACTIVITY = ''
+AVD_NAME = ''
+AVD_WINDOW = '' #leave the value empty for head , and '-no-window' for headless
+
+########## CREDENTIALS ##########
+DEMO_ACCOUNT = ''
+DEMO_PASSWORD = ''

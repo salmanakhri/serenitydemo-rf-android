@@ -1,0 +1,14 @@
+*screenshot*.png
+*.xml
+*.html
+pabot_results
+*.jar
+*.pabotsuitenames
+*.DS_Store
+venv
+.vscode
+reports
+*variables*.py
+*.pyc
+__pycache__
+.idea
